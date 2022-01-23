@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1076525090335",
+    "project_id": "flash-chat-ben-c225e",
+    "storage_bucket": "flash-chat-ben-c225e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076525090335:android:023cf24a51f9608433f72a",
+        "android_client_info": {
+          "package_name": "co.FourreauBenjamin.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076525090335-f07rmhhhgi635s1e260sv4m6bevt9tf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgKYGEZUfqZ740uf-ZCLkCGwJKKsBWqPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076525090335-f07rmhhhgi635s1e260sv4m6bevt9tf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
